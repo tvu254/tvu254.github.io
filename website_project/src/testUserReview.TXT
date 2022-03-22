@@ -1,0 +1,23 @@
+{
+ "UserID": "K.",
+ "Password": "test",
+ "lastName": "Lamar",
+ "reviews": [
+  {
+   "genre": "Slander",
+   "id": 1,
+   "type": "Music",
+   "content": "@JColeNC - waste of my time"
+  },
+  {
+   "genre": "Rap",
+   "id": 2,
+   "type": "Music",
+   "content": "Live your life, live it right. Be different, do different things"
+  }
+ ],
+ "isAdmin": false,
+ "email": "",
+ "firstName": "Kendrick",
+ "isVerified": false
+}
